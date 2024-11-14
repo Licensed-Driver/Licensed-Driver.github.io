@@ -1,10 +1,10 @@
-vCard - Personal Portfolio
+Layne Pitman - Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Layne Pitman
+Layne Pitman
+Software Developer
 
 Show Contacts
 
